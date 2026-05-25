@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise Operations Case Study",
+  "description": "Interactive case study repository demonstrating remote operations optimization, supply chain coordination, and cross-functional workflow efficiency across distributed teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
