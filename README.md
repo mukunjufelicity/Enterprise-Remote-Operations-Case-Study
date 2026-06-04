@@ -1,5 +1,5 @@
 # Enterprise Remote Operations Optimization Case Study
-## Anonymous Global Organization — Cross-Regional Delivery & Supply Chain Alignment
+## Anonymous Global Organization - Cross-Regional Delivery & Supply Chain Alignment
 
 [![Operational Efficiency](https://img.shields.io/badge/Focus-Operational%20Efficiency-blue.svg)](#)
 [![Global Collaboration](https://img.shields.io/badge/Scope-Cross--Regional%20Remote%20Ops-green.svg)](#)
